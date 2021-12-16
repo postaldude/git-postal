@@ -1,0 +1,5 @@
+C:\Users\gr606_sosan\Desktop\Новая папка\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csprojAssemblyReference.cache
+C:\Users\gr606_sosan\Desktop\Новая папка\BookStore\BookStore\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\gr606_sosan\Desktop\Новая папка\BookStore\BookStore\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\gr606_sosan\Desktop\Новая папка\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore_MarkupCompile.cache
+C:\Users\gr606_sosan\Desktop\Новая папка\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore_MarkupCompile.lref
